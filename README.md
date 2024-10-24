@@ -3,7 +3,7 @@
     <img alt="MatchGear" src="https://www.matchgear.app/assets/icon/android-icon-192x192.png?v=1.1.0" width="150"/>
   </a>
 </p>
-<h1 align="center">MatchGear<br>(previously: Sticky Toolkit)</h1>
+<h1 align="center">MatchGear</h1>
 
 <p align="center">
   <a href="https://www.matchgear.app/discord" title="Discord">
@@ -18,7 +18,6 @@
 <p align="center">
   <a target="_blank" href="https://github.com/orgs/MatchGear/projects/3">View our Apple project board here.</a><br>
   <a target="_blank" href="https://github.com/orgs/MatchGear/projects/2">View our Android project board here.</a><br>
-  <a target="_blank" href="https://github.com/orgs/MatchGear/projects/4">View our Tizen project board here.</a>
 </p>
 
 
@@ -45,11 +44,10 @@ MatchGear has support for the following sports:
 
 ## Platform support
 MatchGear is currently supported on the following platforms:
-* [Tizen OS (Samsung Gear S3 and higher)](https://www.matchgear.app/tizen)
-* [Android WearOS (e.g. Samsung Galaxy Watch 4)](https://www.matchgear.app/android)
+* [Android WearOS (e.g. Samsung Galaxy Watch)](https://www.matchgear.app/android)
 * [Apple WatchOS](https://www.matchgear.app/apple)
 
 ## Author
-MatchGear and Sticky Toolkit are products of Martijn van Kekem Development, registered as a business in the Netherlands under Kamer van Koophandel number 85108332.
+MatchGear is a product of Martijn van Kekem Development, registered as a business in the Netherlands under Kamer van Koophandel number 85108332.
 
 One can contact the MatchGear team by sending an e-mail to info@matchgear.app.
