@@ -3,7 +3,7 @@
     <img alt="MatchGear" src="https://www.matchgear.app/assets/icon/android-icon-192x192.png?v=1.1.0" width="150"/>
   </a>
 </p>
-<h1 align="center">MatchGear<br>(previously: Sticky Toolkit)</h1>
+<h1 align="center">MatchGear</h1>
 
 <p align="center">
   <a href="https://www.matchgear.app/discord" title="Discord">
@@ -18,7 +18,6 @@
 <p align="center">
   <a target="_blank" href="https://github.com/orgs/MatchGear/projects/3">Bekijk ons Apple projectbord hier.</a><br>
     <a target="_blank" href="https://github.com/orgs/MatchGear/projects/2">Bekijk ons Android projectbord hier.</a><br>
-    <a target="_blank" href="https://github.com/orgs/MatchGear/projects/4">Bekijk ons Tizen projectbord hier.</a>
 </p>
 
 MatchGear is de ultieme uitbereiding rond jouw pols en helpt scheidsrechters van over de hele wereld om zich te focussen op dat wat er toe doet: de wedstrijd.
@@ -44,8 +43,7 @@ MatchGear is momenteel geoptimaliseerd voor de volgende sporten:
 
 ## Platform ondersteuning
 MatchGear wordt momenteel ondersteund op de volgende platformen:
-* [Tizen OS (Samsung Gear S3 en hoger)](https://www.matchgear.app/tizen)
-* [Android WearOS (e.g. Samsung Galaxy Watch 4)](https://www.matchgear.app/android)
+* [Android WearOS (e.g. Samsung Galaxy Watch)](https://www.matchgear.app/android)
 * [Apple WatchOS](https://www.matchgear.app/apple)
 
 ## Auteur
