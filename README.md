@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/orgs/MatchGear/projects/3">View our Apple project board here.</a><br>
-  <a target="_blank" href="https://github.com/orgs/MatchGear/projects/2">View our Android project board here.</a><br>
+  <a target="_blank" href="https://github.com/orgs/Martijn-van-Kekem-Development/projects/3">View our project board here.</a><br>
 </p>
 
 
