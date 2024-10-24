@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/orgs/MatchGear/projects/3">Bekijk ons Apple projectbord hier.</a><br>
-    <a target="_blank" href="https://github.com/orgs/MatchGear/projects/2">Bekijk ons Android projectbord hier.</a><br>
+  <a target="_blank" href="https://github.com/orgs/Martijn-van-Kekem-Development/projects/3">Bekijk ons project bord hier.</a><br>
 </p>
 
 MatchGear is de ultieme uitbereiding rond jouw pols en helpt scheidsrechters van over de hele wereld om zich te focussen op dat wat er toe doet: de wedstrijd.
