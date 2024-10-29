@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/orgs/Martijn-van-Kekem-Development/projects/3">View our project board here.</a><br>
+  <a target="_blank" href="https://github.com/Martijn-van-Kekem-Development/MatchGear/issues">View all open feature requests & bugs here.</a><br>
 </p>
 
 
